@@ -1,0 +1,11 @@
+server:
+    port: 8081
+
+spring:
+    datasource:
+        username: [数据库用户名]
+        password: [数据库密码]
+        url: jdbc:mysql://[数据库ip]/onesec?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+        driver-class-name: com.mysql.cj.jdbc.Driver
+
+
