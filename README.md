@@ -1,2 +1,2 @@
-# onesecapp
+# onesec-server
  project onesec server
